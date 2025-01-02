@@ -18,6 +18,7 @@ _show case here_
 > not exist yet so be aware if there is support for yours OS and terminal support (take a look at 
 > the SUPPORT section for more information)
 
+## table of content
 
 ## SETUP
 ### Custom 
@@ -35,9 +36,27 @@ _show case here_
 ---
 ### Make your own interactive terminal!
 
-# philosophy
+## Supported OS
+
+## Features 
+
+## Documentation
+
+## philosophy
 Nekofetch is made to be easy to use in a way that even a baby can build awesome staff on it without
 having to worry about complicated and boring config files with lines of code that looks more like 
 magic than a late habit. We know that we are just a neofetch like program that has only one 
 purpose: make the terminal cool as hell. It ca not be difficult to use and customize so you can 
 work more on your project instead of waste time on trying to make it work 
+
+## Dependencies and references
+
+## Licence
+
+## Contributing 
+
+## contact
+
+## Sponsorship or donation
+
+
