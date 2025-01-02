@@ -1,4 +1,4 @@
-# NEKOFETCH
+# <h1 style="">NEKOFETCH</h1>
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 ---
